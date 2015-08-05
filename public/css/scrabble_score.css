@@ -23,7 +23,7 @@ h2 {
 
 button {
   font-family: 'Poiret One', cursive;
-  align: center;
+  
 }
 
 .main_box {
@@ -41,7 +41,7 @@ button {
 
 .score_board {
   width: 490px;
-  height: 300px;
+  height: 250px;
   background: white;
   opacity: .7;
   position: absolute;
