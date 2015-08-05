@@ -1,4 +1,4 @@
-body {
+html,body {
   background: url("https://localscrabble.files.wordpress.com/2011/11/scrabble.jpg") no-repeat;
   center fixed;
   -webkit-background-size: cover;
@@ -6,4 +6,35 @@ body {
   -o-background-size: cover;
   background-size: cover;
 
+}
+h1 {
+
+font-family: 'Poiret One', cursive;
+font-size: 64px;
+text-align: center;
+
+}
+
+h2 {
+  font-family: 'Poiret One', cursive;
+  font-size: 27px;
+  text-align: center;
+}
+
+button {
+  font-family: 'Poiret One', cursive;
+  align: center;
+}
+
+.main_box {
+  width: 890px;
+  height: 400px;
+  background: white;
+  opacity: .7;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
 }
